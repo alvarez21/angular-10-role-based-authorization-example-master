@@ -34,6 +34,7 @@ import { LoginComponent } from './login';
         // provider used to create fake backend
         fakeBackendProvider
     ],
+
     bootstrap: [AppComponent]
 })
 
